@@ -134,7 +134,7 @@ public class bucleA : MonoBehaviour
             return (valor - min) / (max - min);
         }
         listaCirculo.Add(AS);
-        print("He instanciado la esfera"+ " "+esferaGM.name + " " +"en las cordenadas"+ " " + cordenadas);
+        //print("He instanciado la esfera"+ " "+esferaGM.name + " " +"en las cordenadas"+ " " + cordenadas);
     }
 }
         //for(int i = 0; i < listaCirculo.Count; i++)
